@@ -1,3 +1,5 @@
 # nested struct
 ## c language
-## alocation de memmoire 
+## allocation de memmoire
+## algo de tri
+
